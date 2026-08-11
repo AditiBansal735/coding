@@ -3,7 +3,8 @@ Program to calculate the area and perimeter of a rectangle
 */
 #include <stdio.h>
 
-int main() {
+int main() 
+{
     int length, breadth;
     int area, perimeter;
     // Read length and breadth from standard input
