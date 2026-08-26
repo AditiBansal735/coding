@@ -1,4 +1,5 @@
-
+/* a program to input time in seconds and convert it to hours, minutes, and seconds 
+*/
 #include <stdio.h>
 int main ()
 {
