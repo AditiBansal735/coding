@@ -14,7 +14,7 @@ scanf("%d",&a);
     c=a+b;
     printf("sum of %d and %d is %d",a,b,c);
 
-    getchar();
+getchar();
     return 0;
 
 }
