@@ -1,6 +1,18 @@
+/*
+a program to convert temperature from celcius to fahrenheit.
+*/
 #include <stdio.h>
+int main()
+{
+    int celcius, fahrenheit;
 
-int main() {
-    printf("Basic C code\n");
+    printf("enter temperature in celcius= ");
+    scanf("%d",&celcius);
+
+    fahrenheit = (celcius * 9/5) + 32;
+
+    printf("temperature in fahrenheit is %d",fahrenheit);
     return 0;
+    
+
 }
