@@ -1,5 +1,5 @@
 /*
-A PROGRAM TO FIND SUM OF ARRAY ELEMENTS
+A program to find sum of array elements
 */
 
 #include <stdio.h>
